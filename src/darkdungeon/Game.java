@@ -21,6 +21,8 @@ public class Game {
         character.setHealth(100);
         character.setAttackStr(50);
         System.out.println(character.toString());
+        
+        //test location
     }
     
 }
